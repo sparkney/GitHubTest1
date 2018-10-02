@@ -24,7 +24,7 @@ public class GitHubTest1{
     }
     
     public static void print(){
-        System.out.println("Hello remote");
+        System.out.println("Hello remote the second");
     }        
     
 }
