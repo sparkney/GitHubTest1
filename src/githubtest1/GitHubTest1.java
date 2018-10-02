@@ -22,5 +22,9 @@ public class GitHubTest1{
         System.out.println("Hello GitHub remotly second try!");
         System.out.println("Hello GitHub, locally the second!");
     }
-        
+    
+    public static void print(){
+        System.out.println("Hello remote");
+    }        
+    
 }
