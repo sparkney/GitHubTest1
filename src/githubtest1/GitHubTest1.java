@@ -12,7 +12,7 @@ package githubtest1;
 public class GitHubTest1{
 
     public static void localFunc(){
-        System.out.println("World!");
+        System.out.println("World is local");
     }
 
         /**
