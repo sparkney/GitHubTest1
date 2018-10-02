@@ -11,12 +11,16 @@ package githubtest1;
  */
 public class GitHubTest1{
 
-    /**
+    public static void localFunc(){
+        System.out.println("World!");
+    }
+
+        /**
      * @param args the command line arguments
      */
     public static void main(String[] args){
         System.out.println("Hello GitHub remotly second try!");
         System.out.println("Hello GitHub, locally the second!");
     }
-    
+        
 }
