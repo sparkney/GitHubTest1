@@ -16,6 +16,7 @@ public class GitHubTest1{
      */
     public static void main(String[] args){
         System.out.println("Hello GitHub, locally!");
+        System.out.println("Hello GitHub remotly");
     }
     
 }
