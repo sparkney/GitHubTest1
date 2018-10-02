@@ -15,8 +15,8 @@ public class GitHubTest1{
      * @param args the command line arguments
      */
     public static void main(String[] args){
-        System.out.println("Hello GitHub, locally!");
         System.out.println("Hello GitHub remotly second try!");
+        System.out.println("Hello GitHub, locally the second!");
     }
     
 }
